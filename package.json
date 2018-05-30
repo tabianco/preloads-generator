@@ -1,0 +1,26 @@
+{
+  "name": "preloads-generator",
+  "version": "0.1.0",
+  "description": "Generates `<link rel=\"preload\">` from links and scripts",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm run lint && jest --verbose --ci",
+    "test:watch": "jest --verbose --watch",
+    "lint": "eslint --ext .js --ignore-path .gitignore ."
+  },
+  "author": "Kaz Namba <kaz.namba@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-jest": "^21.17.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "jest": "^23.0.1"
+  },
+  "dependencies": {
+    "unpkg-uri": "^0.1.0"
+  }
+}
