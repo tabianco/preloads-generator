@@ -8,8 +8,12 @@
     "test:watch": "jest --verbose --watch",
     "lint": "eslint --ext .js --ignore-path .gitignore ."
   },
+  "repository": "github:tabianco/preloads-generator",
   "author": "Kaz Namba <kaz.namba@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-standard": "^11.0.0",
