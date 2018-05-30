@@ -1,6 +1,6 @@
 # preloads-generator
-[![Build Status](https://travis-ci.org/tabianco/cpreloads-generator.svg?branch=master)](https://travis-ci.org/tabianco/cpreloads-generator)
-[![NPM version](https://img.shields.io/npm/v/cpreloads-generator.svg)](https://www.npmjs.com/package/cpreloads-generator)
+[![Build Status](https://travis-ci.org/tabianco/preloads-generator.svg?branch=master)](https://travis-ci.org/tabianco/preloads-generator)
+[![NPM version](https://img.shields.io/npm/v/preloads-generator.svg)](https://www.npmjs.com/package/preloads-generator)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 > Generates `<link rel="preload">` from links and scripts.
