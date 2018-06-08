@@ -1,6 +1,6 @@
 {
   "name": "preloads-generator",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Generates `<link rel=\"preload\">` from links and scripts",
   "main": "lib/index.js",
   "scripts": {
